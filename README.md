@@ -3,8 +3,9 @@
 </p>
 
 ## Sobre Mi 🚀
-Hi!! I am **Santino** , actualmente me encuentro cursando segundo año de Ingenieria en Computacion en la Universidad Nacional de La Plata
+Hi!! I am **Santino** 
 
+* Estudiante de Ingenieria en Computacion 
 * 🐧 Mi entorno principal es Debian 13 **[ LINUX ]** con Gnome
 * 💻 Me apasiona el backend, los servidores y la IA
 
