@@ -11,4 +11,4 @@ Hi!! I am **Santino**
 
 > Obsesionado por aprender más
 ## Lenguajes 
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white" alt="C++">
+https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub?style=for-the-badge&logoColor=white&label=C%2B%2B&color=00599C
