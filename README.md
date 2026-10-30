@@ -17,3 +17,4 @@ Hi!! I am **Santino**
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   </a>
 </p>
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2Fgithub-repo-blue%3Flogo%3Dgithub?style=for-the-badge&logoColor=white&label=C%2B%2B&color=00599C">
