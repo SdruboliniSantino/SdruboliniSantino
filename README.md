@@ -16,6 +16,7 @@ Repositorio centralizado dedicado a resolver los problemas del [CSES Problem Set
 
 ## 🛠️ Entorno
 
+
 Para el desarrollo, compilación y pruebas de los algoritmos utilizo el siguiente entorno optimizado:
 
 * **Lenguaje:** `C++20` 
@@ -24,3 +25,8 @@ Para el desarrollo, compilación y pruebas de los algoritmos utilizo el siguient
 * **Editor/IDE:** Visual Studio Code / Terminal.
 
 ---
+
+  <a href="https://github.com/SdruboliniSantino/TU_REPO_DE_C++" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  </a>
+
