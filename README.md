@@ -10,3 +10,5 @@ Hi!! I am **Santino**
 * 💻 Me apasiona el backend, los servidores y la IA
 
 > Obsesionado por aprender más
+## Lenguajes 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white" alt="C++">
