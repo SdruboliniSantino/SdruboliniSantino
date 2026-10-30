@@ -5,7 +5,7 @@
 ## Sobre Mi 🚀
 Hi!! I am **Santino** , actualmente me encuentro cursando segundo año de Ingenieria en Computacion en la Universidad Nacional de La Plata
 
-* 🐧 Mi entorno principal es Debian 13 *[ LINUX ]* con Gnome
+* 🐧 Mi entorno principal es Debian 13 **[ LINUX ]** con Gnome
 * 💻 Me apasiona el backend, los servidores y la IA
 
 > Obsesionado por aprender más
