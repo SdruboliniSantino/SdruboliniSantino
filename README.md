@@ -45,8 +45,6 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
-## 🐉 A Dragon Eating my Contributions Graph
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/SdruboliniSantino/SdruboliniSantino/main/assets/dragon-contributions.png"
