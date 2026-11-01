@@ -35,7 +35,15 @@
 
 ### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXllbzBoZTk4ZjRicjN3b2t6cmpqY3c4NW5kbWxhcnp0M2ljajM5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif?raw=true" width = 50px>  </picture> Programming languages
 
-
+<p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  </a>
+  &emsp;&emsp;
+  <a href="https://www.java.com" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+</p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
