@@ -1,18 +1,30 @@
+<h1 align="center">Hi , I'm Santino Sdrubolini 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a0933&height=220&section=header&text=sms@sms:~$%20whoami&fontSize=42&fontColor=a371f7&animation=waving&fontAlignY=38" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%239370DB&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Linux+Lover;Always+learning+new+things"></a>
 </p>
 
-## Sobre Mi 🚀
-Hi!! I am **Santino** 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-* Estudiante de Ingenieria en Computacion 
-* 🐧 Mi entorno principal es Debian 13 **[ LINUX ]** con Gnome
-* 💻 Me apasiona el backend, los servidores y la IA
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-> Obsesionado por aprender más
-## Lenguajes 
+<br><br>
 
-  <a href="https://github.com/SdruboliniSantino/TU_REPO_DE_C++" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
+- :school: I am currently studying Computer Engineering at 'Universidad Nacional de La Plata'
+- :computer: I am a competitive programmer at `CSES`
+- :student: I’m currently learning `Computer Engineering`.
+- :nerd_face: Always `learning new things`.
+<br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profile
+
+<p align="center">
+  <!-- CSES Problem Set -->
+  <a href="https://cses.fi/user/santi_sdrubo"><img src="https://img.shields.io/badge/CSES-Problem%20Set-%23000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="CSES Problem Set"/></a>
+</p>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:santinosdrubo@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/SdruboliniSantino"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
