@@ -29,6 +29,14 @@
 	<a href="https://github.com/SdruboliniSantino"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
  
+
+
+## 🛠️ My Skills
+
+### <picture> <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXllbzBoZTk4ZjRicjN3b2t6cmpqY3c4NW5kbWxhcnp0M2ljajM5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif?raw=true" width = 50px>  </picture> Programming languages
+
+
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
@@ -42,7 +50,7 @@
 
 <br> 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 <p align="center">
