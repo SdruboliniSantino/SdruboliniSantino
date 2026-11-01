@@ -12,7 +12,6 @@
 
 - :school: I am currently studying Computer Engineering at 'Universidad Nacional de La Plata'
 - :computer: I am a competitive programmer at `CSES`
-- :student: I’m currently learning `Computer Engineering`.
 - :nerd_face: Always `learning new things`.
 <br>
 
